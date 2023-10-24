@@ -2,8 +2,8 @@
 //  WeatherModel.swift
 //  Clima
 //
-//  Created by Ricardo Camarena on 23/10/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
+//  Created by Ricardo Camarena on 23/10/2023.
+//  Copyright © 2023 Ricardo Camarena. All rights reserved.
 //
 
 import Foundation
