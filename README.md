@@ -4,15 +4,15 @@ A beautiful, dark-mode enabled weather app where you can check the weather for t
 
 ## Implemented Concepts
 
-• Dark-mode.
-• Vector images as image assets.
-• UlTextField to get user input.
-• Delegate pattern.
-• Swift protocols and extensions.
-• Swift guard keyword.
-• Swift computed properties.
-• Swift closures and completion handlers.
-• URLSession to network and make HTTP requests.
-• Parse JSON with the native Encodable and Decodable protocols.
-• Grand Central Dispatch to fetch the main thread.
-• Core Location to get the current location from the phone GPS.
+* Dark-mode.
+* Vector images as image assets.
+* UlTextField to get user input.
+* Delegate pattern.
+* Swift protocols and extensions.
+* Swift guard keyword.
+* Swift computed properties.
+* Swift closures and completion handlers.
+* URLSession to network and make HTTP requests.
+* Parse JSON with the native Encodable and Decodable protocols.
+* Grand Central Dispatch to fetch the main thread.
+* Core Location to get the current location from the phone GPS.
